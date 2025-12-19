@@ -33,3 +33,12 @@ The servo motor is connected to PWM2 pin PB4. The H-bridge motor driver is conne
 |	          | PB6          | PB6      | PC5	             | PA1  |
 | 5v          | 5v           | Motor driver  | 5v            |      |
 
+# Analysis and Results
+
+Overall, this project was successful because we built the whole RC vehicle using peripherals that were successfully controlled by the Tiva TM4C123GH6PM microcontroller. The Vehicle can turn left and right, move forward, backward and, the motors come to a full stop when an object is detected at 10cm.
+
+Ideally, we should have used a form of prebuilt chassis instead of reusing a toy and then using art craft materials to adapt the chassis to meet the requirements of the project. Additionally, we were  not able to finish implementing the Bluetooth component of the project and the vehicle must be controlled using serial communication with Teraterm emulator to send commands to the vehicle.
+
+Link to video: https://www.youtube.com/shorts/zyG-7bO7Igw
+
+![alt text](rc_car_1.jpeg)       ![alt text](rc_car_2.png)
