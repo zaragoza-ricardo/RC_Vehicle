@@ -27,8 +27,7 @@ The servo motor is connected to PWM2 pin PB4. The H-bridge motor driver is conne
 
 # Pinout Used
 
-| Servo Motor\PWM2 | Motor Driver | TT Motor | Ultra-Sonic Sensor | UART0|
-| PWM2        | PWM 0        | PWM 0    | GPIO                    |      |
+| Servo Motor\PWM2 | Motor Driver\PWM 0 | TT Motor\PWM0 | Ultra-Sonic Sensor\GPIO | UART0|
 | ----------- | ------------ | -------- | ------------------ | ---- |
 | PB4         |	PB7          | PB7      | PC4                | PA0  |
 |	          | PB6          | PB6      | PC5	             | PA1  |
