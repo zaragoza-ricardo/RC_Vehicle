@@ -8,6 +8,11 @@ The goal of this project is to build a remote-control vehicle that can be contro
 
 The servo motor is connected to PWM2 pin PB4. The H-bridge motor driver is connected to PWM0 pins PB7 and PB6. The ultra sonic sensor is connected to GPIO pins PC4 and PC5. Serial communication using UART is Pin PA0 and PA1.
 
+
+# Block Diagram
+
+![alt text](RC_Block_Diagram_drawio.png)
+
 # Components Used
 
 Description	Quantity	Manufacturer
@@ -18,9 +23,6 @@ H-Bridge Circuit Motor Driver L298N	1	HILETGO
 Ultra-Sonic Sensor HC-SR04	1	EPLZON
 
 
-# Block Diagram
-
-![alt text](RC_Block_Diagram_drawio.png)
 
 # Pinout Used
 
