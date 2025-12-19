@@ -1,7 +1,7 @@
 # ECE 425 Microproccesor Systems - Final Project
 # Remote Control Vehicle
 ### Created by:
-Ricardo Zaragoza
+Ricardo Zaragoza\
 Jonathan Penaloza
 
 ## Introduction
