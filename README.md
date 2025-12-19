@@ -11,7 +11,7 @@ The servo motor is connected to PWM2 pin PB4. The H-bridge motor driver is conne
 
 # Block Diagram
 
-![Block Diagram](/images/RC_Block_Diagram_drwaio.png)
+![Block Diagram](/images/RC_Block_Diagram_drawio.png)
 
 # Components Used
 
