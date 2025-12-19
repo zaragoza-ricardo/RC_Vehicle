@@ -15,12 +15,13 @@ The servo motor is connected to PWM2 pin PB4. The H-bridge motor driver is conne
 
 # Components Used
 
-Description	Quantity	Manufacturer
-Tiva TM4C123GH6PM	1	Texas Instruments
-TT brushed motors	2	XINXXR
-Micro Servo Motor SG90 9g	1	DORHEA
-H-Bridge Circuit Motor Driver L298N	1	HILETGO
-Ultra-Sonic Sensor HC-SR04	1	EPLZON
+| Description |	Quantity |	Manufacturer |
+|-------------|----------|---------------|
+| Tiva TM4C123GH6PM |	1 |	Texas Instruments |
+| TT brushed motors |	2 | XINXXR |
+| Micro Servo Motor | SG90 9g | 1 | DORHEA |
+| H-Bridge Circuit Motor Driver L298N |	1 | HILETGO |
+| Ultra-Sonic Sensor HC-SR04 | 1 |	EPLZON |
 
 
 
