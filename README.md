@@ -11,7 +11,7 @@ The servo motor is connected to PWM2 pin PB4. The H-bridge motor driver is conne
 
 # Block Diagram
 
-![alt text](RC_Block_Diagram_drawio.png)
+![RC-Vehicle](/images/RC_Block_Diagram_drwaio.png)
 
 # Components Used
 
@@ -41,4 +41,6 @@ Ideally, we should have used a form of prebuilt chassis instead of reusing a toy
 
 Link to video: https://www.youtube.com/shorts/zyG-7bO7Igw
 
-![alt text](rc_car_1.jpeg)       ![alt text](rc_car_2.png)
+![RC-Vehicle](/images/rc_car_1.jpeg.png)  ![RC-Vehicle](/images/rc_car_2.png)
+
+
