@@ -1,8 +1,13 @@
 # ECE 425 Microproccesor Systems - Final Project
+California State University, Northridge\
+Department of Electrical & Computer Engineering
 # Remote Control Vehicle
 ### Created by:
-Ricardo Zaragoza\
-Jonathan Penaloza
+*Ricardo Zaragoza
+*Jonathan Penaloza
+
+### Professor:
+Aaron Nanas
 
 ## Introduction
 
